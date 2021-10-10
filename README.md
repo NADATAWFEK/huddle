@@ -1,2 +1,2 @@
-# huddle
+# Huddle
 executing huddle challenge
